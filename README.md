@@ -17,8 +17,8 @@
 </div>
 
 <div align="left">
-  <p style= "font-family: 'Fira Code', monospace;font-size: 18px; color: #CC99CC;">
-    Sometimes my feelings towards Unity: <br />
+  <p style="font-family: 'Fira Code', monospace; font-size: 18px; color: #CC99CC;">
+    <strong>Sometimes my feelings towards Unity:</strong><br />
    <img src="https://i.gifer.com/5ABA.gif" alt="Gifer GIF 3" width="300" />
   </p>
 </div>
