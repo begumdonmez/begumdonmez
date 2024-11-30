@@ -14,7 +14,7 @@
   </p>
 
   
-  <img src="https://i.gifer.com/XOsX.gif" alt="Additional GIF" width="300" />
+ <img src="https://i.gifer.com/3nR6.gif" alt="Gifer GIF 2" width="300" />
 
 </div>
 
