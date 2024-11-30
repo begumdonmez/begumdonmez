@@ -13,8 +13,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=2FAA96&center=true&vCenter=true&width=440&lines=Welcome!" alt="Welcome!" /> 
   </p>
 
-  <img src="https://example.com/cute-kitten.gif" alt="Cute Kitten" width="300" />
-<img https://github.com/{kullanici-adiniz}/{depo-adiniz}/blob/main/wave.svg />
+  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" alt="Giphy Content" width="300" />
+
 </div>
 
 
