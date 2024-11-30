@@ -9,14 +9,20 @@
 <img src="https://i.gifer.com/ZdPK.gif" alt="Blue Ocean GIF" width="300" />
 </div>
 
+<div align="center">
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36648B&center=true&vCenter=true&width=440&lines=Hi!+I'm+Begum!" alt="I'm Begum!" /> 
+  
+  </p>
+
+</div>
+
   <div align="left">
  <img src="https://i.gifer.com/YxA5.gif" alt="Blue Rain GIF" width="300" />
   </div>
   
 <div align="center">
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36648B&center=true&vCenter=true&width=440&lines=Hi!+I'm+Begum!" alt="I'm Begum!" /> 
-    <br />
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00688B&center=true&vCenter=true&width=440&lines=I'm+a+game+design+student!" alt="I'm a game design student!" />  
     <br />
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=4F94CD&center=true&vCenter=true&width=440&lines=And+this+is+my+magical+workspace!" alt="And this is my magical workspace!" />  
