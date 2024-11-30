@@ -22,6 +22,10 @@
    <img src="https://i.gifer.com/5ABA.gif" alt="Gifer GIF 3" width="300" />
   </p>
 </div>
+
+<div align="right">
+  <img src="https://i.gifer.com/o8P.gif" alt="New Gifer GIF" width="400" />
+  </div>
 <!--
 **begumdonmez/begumdonmez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
