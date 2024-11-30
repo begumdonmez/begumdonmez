@@ -6,8 +6,12 @@
   <h1> Hello✨</h1>
   
 <div align="left">
-<img src="https://media.giphy.com/media/85VfHIvE62li1QWi8C/giphy.gif" alt="Cloud GIF" width="480" height="480" />
+<img src="https://i.gifer.com/ZdPK.gif" alt="Blue Ocean GIF" width="300" />
 </div>
+
+  <div align="left">
+ <img src="https://i.gifer.com/YxA5.gif" alt="Blue Rain GIF" width="300" />
+  </div>
   
 <div align="center">
   <p>
@@ -53,13 +57,15 @@
   <!-- Streak Stats -->
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=begumdonmez&theme=tokyonight)
 
-  
 </div>
 
 
-<div align="right">
-   <img src="https://i.gifer.com/3q60.gif" alt="3q60 GIF" width="300" />
-  </div>
+<div align="Center">
+
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+</div>
+
+
 
 <!--
 **begumdonmez/begumdonmez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
