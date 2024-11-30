@@ -13,7 +13,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=2FAA96&center=true&vCenter=true&width=440&lines=Welcome!" alt="Welcome!" /> 
   </p>
 
-  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" alt="Giphy Content" width="300" />
+  
+  <img src="https://i.gifer.com/XOsX.gif" alt="Additional GIF" width="300" />
 
 </div>
 
