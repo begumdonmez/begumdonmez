@@ -1,34 +1,43 @@
-<h1> Hi there ✨</h1>
 
 <div align="center">
+ <img src="https://i.gifer.com/3nR6.gif" alt="Gifer GIF 2" width="300" />
+  </div>
+
+  <h1> Hello✨</h1>
+  
+<div align="center">
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=2FAA96&center=true&vCenter=true&width=440&lines=Hi!+I'm+Begum!" alt="Hi! I'm Begum!" /> 
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36648B&center=true&vCenter=true&width=440&lines=Hi!+I'm+Begum!" alt="I'm Begum!" /> 
     <br />
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=3E766D&center=true&vCenter=true&width=440&lines=I'm+a+game+design+student!" alt="I'm a game design student!" />  
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00688B&center=true&vCenter=true&width=440&lines=I'm+a+game+design+student!" alt="I'm a game design student!" />  
     <br />
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=90EE90&center=true&vCenter=true&width=440&lines=And+this+is+my+magical+workspace!" alt="And this is my magical workspace!" />  
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=4F94CD&center=true&vCenter=true&width=440&lines=And+this+is+my+magical+workspace!" alt="And this is my magical workspace!" />  
     <br />
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=70DB93&center=true&vCenter=true&width=440&lines=Welcome!" alt="Welcome!" /> 
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=539DC2&center=true&vCenter=true&width=440&lines=Welcome!" alt="Welcome!" /> 
   </p>
 
- <img src="https://i.gifer.com/3nR6.gif" alt="Gifer GIF 2" width="300" />
 
 </div>
 
-
+<div align="right">
+  <img src="https://i.gifer.com/WXfH.gif" alt="WXfH GIF" width="300" />
+  </div>
 
 <div align="left">
-  <p style="font-family: 'Courier New', monospace; font-size: 18px; color: #ff4500;">
+  <p style="font-family: 'Courier New', monospace; font-size: 18; color: #ff4500;">
     Sometimes my feelings towards Unity: <br />
     <img src="https://i.gifer.com/5ABA.gif" alt="Unity GIF" width="300" />
+  
   </p>
 </div>
 
-
+<div align="left">
+<img src="https://media.giphy.com/media/85VfHIvE62li1QWi8C/giphy.gif" alt="Cloud GIF" width="480" height="480" />
+</div>
 
 
 <div align="right">
-   <img src="https://i.gifer.com/XOsX.gif" alt="Gifer GIF" width="300" />
+   <img src="https://i.gifer.com/3q60.gif" alt="3q60 GIF" width="300" />
   </div>
 
 <!--
