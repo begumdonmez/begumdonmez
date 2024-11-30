@@ -5,6 +5,10 @@
 
   <h1> Hello✨</h1>
   
+<div align="left">
+<img src="https://media.giphy.com/media/85VfHIvE62li1QWi8C/giphy.gif" alt="Cloud GIF" width="480" height="480" />
+</div>
+  
 <div align="center">
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36648B&center=true&vCenter=true&width=440&lines=Hi!+I'm+Begum!" alt="I'm Begum!" /> 
@@ -16,23 +20,40 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=539DC2&center=true&vCenter=true&width=440&lines=Welcome!" alt="Welcome!" /> 
   </p>
 
+</div>
+
+
+
+<div align="Center">
+ 
+  <!-- GitHub Stats -->
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=begumdonmez&show_icons=true&theme=tokyonight)
+
 
 </div>
+
 
 <div align="right">
   <img src="https://i.gifer.com/WXfH.gif" alt="WXfH GIF" width="300" />
   </div>
 
-<div align="left">
-  <p style="font-family: 'Courier New', monospace; font-size: 18; color: #ff4500;">
-    Sometimes my feelings towards Unity: <br />
-    <img src="https://i.gifer.com/5ABA.gif" alt="Unity GIF" width="300" />
-  
-  </p>
+
+<div align="Center">
+ 
+  <!-- Top Languages -->
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=begumdonmez&layout=compact&theme=tokyonight)
+
+
 </div>
 
-<div align="left">
-<img src="https://media.giphy.com/media/85VfHIvE62li1QWi8C/giphy.gif" alt="Cloud GIF" width="480" height="480" />
+
+
+<div align="Center">
+ 
+  <!-- Streak Stats -->
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=begumdonmez&theme=tokyonight)
+
+  
 </div>
 
 
