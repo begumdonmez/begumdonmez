@@ -13,19 +13,23 @@
 
  <img src="https://i.gifer.com/3nR6.gif" alt="Gifer GIF 2" width="300" />
 
-
 </div>
+
+
 
 <div align="left">
-  <p style="font-family: 'Fira Code', monospace; font-size: 18px; color: #CC99CC;">
-    <strong>Sometimes my feelings towards Unity:</strong><br />
-   <img src="https://i.gifer.com/5ABA.gif" alt="Gifer GIF 3" width="300" />
-  </p>
+  <p>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=CC99CC&center=true&vCenter=true&width=440&lines=Hi!+I'm+Begum!" alt="Sometimes my feelings towards Unity:" /> 
+     </p>
 </div>
 
+
+
+
 <div align="right">
-  <img src="https://i.gifer.com/o8P.gif" alt="New Gifer GIF" width="400" />
+   <img src="https://i.gifer.com/XOsX.gif" alt="Gifer GIF" width="300" />
   </div>
+
 <!--
 **begumdonmez/begumdonmez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
