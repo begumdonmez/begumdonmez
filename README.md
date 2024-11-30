@@ -1,6 +1,5 @@
-
 <h1> Hi there ✨</h1>
- 
+
 <div align="center">
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=2FAA96&center=true&vCenter=true&width=440&lines=Hi!+I'm+Begum!" alt="Hi! I'm Begum!" /> 
@@ -18,7 +17,7 @@
 </div>
 
 <div align="left">
-  <p style="font-size: 18px; color: #2FAA96;">
+  <p style= "font-family: 'Fira Code', monospace;font-size: 18px; color: #CC99CC;">
     Sometimes my feelings towards Unity: <br />
    <img src="https://i.gifer.com/5ABA.gif" alt="Gifer GIF 3" width="300" />
   </p>
