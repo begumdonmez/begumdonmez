@@ -18,9 +18,10 @@
 
 
 <div align="left">
-  <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=CC99CC&center=true&vCenter=true&width=440&lines=Hi!+I'm+Begum!" alt="Sometimes my feelings towards Unity:" /> 
-     </p>
+  <p style="font-family: 'Courier New', monospace; font-size: 18px; color: #ff4500;">
+    Sometimes my feelings towards Unity: <br />
+    <img src="https://i.gifer.com/5ABA.gif" alt="Unity GIF" width="300" />
+  </p>
 </div>
 
 
